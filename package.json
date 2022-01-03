@@ -1,0 +1,16 @@
+{
+  "name": "team-bot-bot",
+  "version": "1.0.0",
+  "description": "reaction role giver",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Dominic Shelton <frogamic@protonmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.5.0",
+    "makrut": "^1.0.2"
+  }
+}
